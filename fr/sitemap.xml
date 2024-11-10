@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/fr/categories/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://letuanvu08.github.io/vuleblog.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/categories/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.org/fr/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://letuanvu08.github.io/vuleblog.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/"
                 />
   </url><url>
-    <loc>https://example.org/fr/series/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/series/"
+                href="https://letuanvu08.github.io/vuleblog.net/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/series/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/series/"
                 />
   </url><url>
-    <loc>https://example.org/fr/tags/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://letuanvu08.github.io/vuleblog.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/tags/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/tags/"
                 />
   </url>
 </urlset>

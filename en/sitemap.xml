@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://letuanvu08.github.io/vuleblog.net/"
                 />
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/posts/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/categories/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://letuanvu08.github.io/vuleblog.net/categories/"
                 />
   </url><url>
-    <loc>https://example.org/series/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/series/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/series/"
+                href="https://letuanvu08.github.io/vuleblog.net/series/"
                 />
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://letuanvu08.github.io/vuleblog.net/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/tags/"
+                href="https://letuanvu08.github.io/vuleblog.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://letuanvu08.github.io/vuleblog.net/tags/"
                 />
   </url>
 </urlset>
